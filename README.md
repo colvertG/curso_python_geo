@@ -1,2 +1,3 @@
-# curso_python_geo
+# Curso "Introducción a Python para procesamiento de datos geoespaciales"
 
+> Colvert Gomez Rubio
